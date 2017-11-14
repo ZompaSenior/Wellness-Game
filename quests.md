@@ -6,4 +6,4 @@ Secondo me le quest devono essere strettamente legate allo scopo del gioco, e ci
 le due opzioni potrebbero anche essere due modalità di gioco, tipo la modalità Campagna o Avventura di Diblo 3.
 
 ## Caramelle
-Non credo ci sia bisono di spiegazioni.Valuteremo poi le modalità.
+Non credo ci sia bisogno di spiegazioni.Valuteremo poi le modalità.
